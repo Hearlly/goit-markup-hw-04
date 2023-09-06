@@ -234,7 +234,10 @@
   
   .hero{
     padding:200px 0;
-    background: var(--navyblue);
+    background: url(/images/people\ office\ image.jpg) ;
+    background-position: center;
+    background-size: cover;
+    
     
   }
   
